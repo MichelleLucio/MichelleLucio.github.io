@@ -2,9 +2,10 @@
 
 Michelle A. Lucio
 St. Paul, MN 55107
-Phone: 651-202-6123  |  email: michellelucio2002@gmail.com
+
+email: michellelucio2002@gmail.com
 LinkedIn: https://www.linkedin.com/in/michelle-lucio-2002/     
- GitHub: https://github.com/MichelleLucio
+GitHub: https://github.com/MichelleLucio
 
 Summary
 Data Analyst with a background in Medical Laboratory Scientist (Board-Certified). Graduated the Data Visualization bootcamp through the University of Minnesota.  Detail orientated, hardworking, organized problem solver that is excited to learn and experience new technologies. Skillful in working collaboratively with like-minded team to achieve optimal results. Passion for using databases, creating interactive plots and data storytelling. Will flourish in situations where strengths in modern analysis tools are employed and am rewarded for a well completed project.
