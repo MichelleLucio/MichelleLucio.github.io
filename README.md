@@ -47,7 +47,9 @@ Performed complex processes involving cell culture techniques with aseptic pract
 •	Laboratory for Udder Health: Milk/Dairy Microbiology Setup/Culture. 
 	Maintained Microsoft Access database for submissions/results.
 
+
 Education
+
 •	Data Visualization Bootcamp Certificate: University of Minnesota 
 A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.
 
