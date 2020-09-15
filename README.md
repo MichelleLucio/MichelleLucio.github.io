@@ -4,6 +4,7 @@ Michelle A. Lucio
 St. Paul, MN 55107
 
 email: michellelucio2002@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/michelle-lucio-2002/     
 GitHub: https://github.com/MichelleLucio
 
